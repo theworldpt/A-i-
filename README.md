@@ -117,13 +117,13 @@ AI与心理学、命理学的融合，本质是数据科学对人文领域的再
 探索脑机接口与命理预测的结合，提升预测实时性；
 构建“AI+命理”伦理评估体系，纳入ISO国际标准。
 ##         参考文献​
-李瑜. (2025). 《AI时代的巴纳姆效应研究》. 心理学学报, 47(3), 112-125.
-张伟等. (2024). 《深度学习在命理学中的应用》. 人工智能前沿, 12(6), 45-60.
-MIT媒体实验室. (2024). 《BERT模型在八字排盘中的实践》. arXiv:2403.12345.
-腾讯研究院. (2025). 《AI+传统文化商业案例集》. 深圳: 腾讯科技.
-Padmakali Banerjee（印度IILM大学副校长）、Braham Deep Sindhu（印度精神病学家）等.《Exploring the intersections of AI (Artificial Intelligence) in psychology and astrology: a conceptual inquiry for human well-being》（发表于《Journal of Psychology and Clinical Psychiatry》，2024年）.
-Steven Cheng（美国凯斯西储大学）、Mingyang Han（英国利物浦大学）.《Beat ChatGPT at Fortune-Telling—An Attempt to Optimize a Large Language Model》（发表于《Proceedings of the 5th International Conference on Signal Processing and Machine Learning》，2025年）
-段玉聪（国际网络化DIKWP标准委员会）、郭振东（中国人工智能学会）.《跨学科视角下AI算命准确性提升技术报告（基于DIKWP框架）》（发表于ResearchGate，2025年）
-美国Cosmic Vibrations公司.Moonly
-中国FateTell公司.FateTell
-韩国HelloBot公司.HelloBot
+李瑜. (2025). 《AI时代的巴纳姆效应研究》. 心理学学报, 47(3), 112-125.  
+张伟等. (2024). 《深度学习在命理学中的应用》. 人工智能前沿, 12(6), 45-60.  
+MIT媒体实验室. (2024). 《BERT模型在八字排盘中的实践》. arXiv:2403.12345.  
+腾讯研究院. (2025). 《AI+传统文化商业案例集》. 深圳: 腾讯科技.  
+Padmakali Banerjee（印度IILM大学副校长）、Braham Deep Sindhu（印度精神病学家）等.《Exploring the intersections of AI (Artificial Intelligence) in psychology and astrology: a conceptual inquiry for human well-being》（发表于《Journal of Psychology and Clinical Psychiatry》，2024年）.  
+Steven Cheng（美国凯斯西储大学）、Mingyang Han（英国利物浦大学）.《Beat ChatGPT at Fortune-Telling—An Attempt to Optimize a Large Language Model》（发表于《Proceedings of the 5th International Conference on Signal Processing and Machine Learning》，2025年）  
+段玉聪（国际网络化DIKWP标准委员会）、郭振东（中国人工智能学会）.《跨学科视角下AI算命准确性提升技术报告（基于DIKWP框架）》（发表于ResearchGate，2025年）  
+美国Cosmic Vibrations公司.Moonly  
+中国FateTell公司.FateTell  
+韩国HelloBot公司.HelloBot  
